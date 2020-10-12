@@ -1,0 +1,25 @@
+/* #header {
+  background-color: rgb(227, 216, 238);
+  border: 1px solid blueviolet;
+  padding: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+.button {
+  margin: 5px;
+}
+
+.match-ul {
+  margin: 20px;
+}
+
+.img {
+  width: 100px;
+  height: auto;
+  margin: 15px;
+  border: 2px solid black;
+  border-radius: 3px;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
